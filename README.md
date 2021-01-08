@@ -1,5 +1,9 @@
 # fm-coding-bootcamp-slider (Coding Bootcamp Testimonal Slider)
 
+## Live View 
+
+Live View: [https://nitearie.github.io/fm-coding-bootcamp-slider/](https://nitearie.github.io/fm-coding-bootcamp-slider/)
+
 ## Design Preview
 
 > Desktop
