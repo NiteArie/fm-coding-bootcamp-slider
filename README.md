@@ -8,13 +8,13 @@ Live View: [https://nitearie.github.io/fm-coding-bootcamp-slider/](https://nitea
 
 > Desktop
 
-![Desktop Design](./desktop-preview.jpg)
+![Desktop Design](./design/desktop-preview.jpg)
 
 > Mobile 
 
-![Mobile Preview 1](./mobile-design-slide-1.jpg)
+![Mobile Preview 1](./design/mobile-design-slide-1.jpg)
 
-![Mobile Preview 2](./mobile-design-slide-2.jpg)
+![Mobile Preview 2](./design/mobile-design-slide-2.jpg)
 
 ## General
 
