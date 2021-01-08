@@ -114,29 +114,30 @@ body {
     display: none;
 }
 
-@media only screen and (max-width: 1250px) {
+@media only screen and (max-width: 1300px) {
     .container {
         height: auto;
+        background-size: 50%;
         background-position: 
-            bottom left,
-            200px 200px;
-    }
-
-    .container__main {
-        /* background-position: 2000px 800px; */
+            bottom left;
     }
 
     .container__main__card {
         width: 375px;
         flex-direction: column-reverse;
-        background-position: 52% 63%;
+        background-size: 20%;
+        background-position: 52% 65%;
     }
 
     .container__main__card__quote-wrapper {
-        margin-bottom: 40px;
+        margin-bottom: 30px;
         position: static;
         text-align: center;
         font-size: 22px;
+    }
+
+    .container__main__card__quote {
+        margin-bottom: 30px;
     }
 
     .container__main__card__author__role {
